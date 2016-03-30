@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: testbeam.aux
+The style file: elsarticle-num.bst
+Database file #1: testbeam.bib
+Warning--empty author in ecfa2015
+Warning--empty journal in ecfa2015
+Warning--empty author in mdliquidtile
+Warning--empty journal in mdliquidtile
+You've used 23 entries,
+            2937 wiz_defined-function locations,
+            850 strings with 10375 characters,
+and the built_in function-call counts, 7948 in all, are:
+= -- 782
+> -- 247
+< -- 5
++ -- 97
+- -- 74
+* -- 703
+:= -- 1082
+add.period$ -- 42
+call.type$ -- 23
+change.case$ -- 28
+chr.to.int$ -- 3
+cite$ -- 27
+duplicate$ -- 218
+empty$ -- 840
+format.name$ -- 90
+if$ -- 2030
+int.to.chr$ -- 0
+int.to.str$ -- 23
+missing$ -- 22
+newline$ -- 101
+num.names$ -- 23
+pop$ -- 111
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 465
+stack$ -- 0
+substring$ -- 510
+swap$ -- 86
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 45
+width$ -- 25
+write$ -- 237
+(There were 4 warnings)

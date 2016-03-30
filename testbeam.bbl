@@ -1,0 +1,184 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Giokaris1993315}
+N.~Giokaris, M.~Contreras, A.~Pla-Dalmau, J.~Zimmerman, K.~Johnson,
+  \href{http://www.sciencedirect.com/science/article/pii/0969806X93900697}{Study
+  of dose-rate effects on the radiation damage of polymer-based scsn23, scsn81,
+  scsn81+y7, scsn81+y8 and 3hf scintillators}, Radiation Physics and Chemistry
+  41~(1–2) (1993) 315 -- 320.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0969-806X(93)90069-7}
+  {\path{doi:http://dx.doi.org/10.1016/0969-806X(93)90069-7}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0969806X93900697}
+
+\bibitem{ecfa2015}
+\href{https://cds.cern.ch/record/1983664}{{ECFA High Luminosity LHC Experiments
+  Workshop: Physics and Technology Developments Summary submitted to ECFA. 96th
+  Plenary ECFA meeting}}.
+\newline\urlprefix\url{https://cds.cern.ch/record/1983664}
+
+\bibitem{vasken}
+V.~Hagopian, I.~Daly, Radiation damage of fibers, AIP Conference Proceedings
+  450~(1) (1998) 53--61.
+\newblock \href {http://dx.doi.org/http://dx.doi.org/10.1063/1.56958}
+  {\path{doi:http://dx.doi.org/10.1063/1.56958}}.
+
+\bibitem{ByonWagner1993263}
+A.~Byon-Wagner, Radiation hardness test programs for the \{SDC\} calorimeter,
+  Radiation Physics and Chemistry 41~(1–2) (1993) 263 -- 271.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0969-806X(93)90064-2}
+  {\path{doi:http://dx.doi.org/10.1016/0969-806X(93)90064-2}}.
+
+\bibitem{phaseiitdr}
+J.~F. Butler, D.~U. C. B.-L.~I. Contardo, M.~M. Klute, J.~U. o.~M. Mans,
+  L.~I.-B. Silvestris, \href{https://cds.cern.ch/record/2020886}{{Technical
+  Proposal for the Phase-II Upgrade of the CMS Detector}}, Tech. Rep.
+  CERN-LHCC-2015-010. LHCC-P-008, CERN, Geneva, upgrade Project Leader
+  Deputies: Lucia Silvestris (INFN-Bari), Jeremy Mans (University of Minnesota)
+  Additional contacts: Lucia.Silvestris@cern.ch, Jeremy.Mans@cern.ch (Jun
+  2015).
+\newline\urlprefix\url{https://cds.cern.ch/record/2020886}
+
+\bibitem{Bohnet:87278}
+I.~Bohnet, R.-P. Feller, N.~Krumnack, E.~Moeller, H.~Prause, H.~Salehi,
+  K.~Wick, {L}ong-term studies of the optical components in the {ZEUS}
+  calorimeter using a moving {C}o-60 source, Nuclear physics / A 599 (2009)
+  53--59.
+\newblock \href {http://dx.doi.org/10.1016/j.nima.2008.10.035}
+  {\path{doi:10.1016/j.nima.2008.10.035}}.
+
+\bibitem{sauli}
+C.~Zorn, Plastic and liquid organic scintillators, in: F.~Sauli (Ed.),
+  Instrumentation in High Energy Physics, 2nd Edition, World Scientific, 1993,
+  Ch.~4, pp. 218--279.
+\newblock \href {http://dx.doi.org/10.1142/9789814360333_0004}
+  {\path{doi:10.1142/9789814360333_0004}}.
+
+\bibitem{34504}
+U.~Holm, K.~Wick, Radiation stability of plastic scintillators and wave-length
+  shifters, Nuclear Science, IEEE Transactions on 36~(1) (1989) 579--583.
+\newblock \href {http://dx.doi.org/10.1109/23.34504}
+  {\path{doi:10.1109/23.34504}}.
+
+\bibitem{Wick1991472}
+K.~Wick, D.~Paul, P.~SchrÃ¶der, V.~Stieber, B.~Bicken, Recovery and dose rate
+  dependence of radiation damage in scintillators, wavelength shifters and
+  light guides, Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms 61~(4) (1991) 472 -- 486.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0168-583X(91)95325-8}
+  {\path{doi:http://dx.doi.org/10.1016/0168-583X(91)95325-8}}.
+
+\bibitem{289295}
+B.~Bicken, U.~Holm, T.~Marckmann, K.~Wick, M.~Rohde, Recovery and permanent
+  radiation damage of plastic scintillators at different dose rates, Nuclear
+  Science, IEEE Transactions on 38~(2) (1991) 188--193.
+\newblock \href {http://dx.doi.org/10.1109/23.289295}
+  {\path{doi:10.1109/23.289295}}.
+
+\bibitem{173180}
+B.~Bicken, A.~Dannemann, U.~Holm, T.~Neumann, K.~Wick, Influence of temperature
+  treatment on radiation stability of plastic scintillator and wave-length
+  shifter, Nuclear Science, IEEE Transactions on 39~(5) (1992) 1212--1216.
+\newblock \href {http://dx.doi.org/10.1109/23.173180}
+  {\path{doi:10.1109/23.173180}}.
+
+\bibitem{173178}
+A.~Bross, A.~Pla-Dalmau, Radiation damage of plastic scintillators, Nuclear
+  Science, IEEE Transactions on 39~(5) (1992) 1199--1204.
+\newblock \href {http://dx.doi.org/10.1109/23.173178}
+  {\path{doi:10.1109/23.173178}}.
+
+\bibitem{Biagtan1996125}
+E.~Biagtan, E.~Goldberg, R.~Stephens, E.~Valeroso, J.~Harmon, Gamma dose and
+  dose rate effects on scintillator light output, Nuclear Instruments and
+  Methods in Physics Research Section B: Beam Interactions with Materials and
+  Atoms 108~(1–2) (1996) 125 -- 128.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0168-583X(95)00874-8}
+  {\path{doi:http://dx.doi.org/10.1016/0168-583X(95)00874-8}}.
+
+\bibitem{lee199929}
+E.~H. Lee,
+  \href{http://www.sciencedirect.com/science/article/pii/S0168583X99001299}{Ion-beam
+  modification of polymeric materials -- fundamental principles and
+  applications}, Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms 151~(1--4) (1999) 29 -- 41.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-583X(99)00129-9}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-583X(99)00129-9}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0168583X99001299}
+
+\bibitem{clough1996583}
+R.~Clough, K.~Gillen, G.~Malone, J.~Wallace,
+  \href{http://www.sciencedirect.com/science/article/pii/0969806X96000758}{Color
+  formation in irradiated polymers}, Radiation Physics and Chemistry 48~(5)
+  (1996) 583 -- 594.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/0969-806X(96)00075-8}
+  {\path{doi:http://dx.doi.org/10.1016/0969-806X(96)00075-8}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0969806X96000758}
+
+\bibitem{467829}
+G.~Buss, A.~Dannemann, U.~Holm, K.~Wick, Radiation damage by neutrons to
+  plastic scintillators, Nuclear Science, IEEE Transactions on 42~(4) (1995)
+  315--319.
+\newblock \href {http://dx.doi.org/10.1109/23.467829}
+  {\path{doi:10.1109/23.467829}}.
+
+\bibitem{Bodmann2003495}
+B.~Bodmann, S.~GÃ¶b, U.~Holm, \{LET\} effects of neutron irradiated plastic
+  scintillators, Nuclear Instruments and Methods in Physics Research Section B:
+  Beam Interactions with Materials and Atoms 208~(0) (2003) 495 -- 499,
+  ionizing Radiation and Polymers.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-583X(03)00664-5}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-583X(03)00664-5}}.
+
+\bibitem{Bodmann2001299}
+B.~Bodmann, U.~Holm, Neutron-irradiated plastic scintillators, Nuclear
+  Instruments and Methods in Physics Research Section B: Beam Interactions with
+  Materials and Atoms 185~(1–4) (2001) 299 -- 304.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/S0168-583X(01)00762-5}
+  {\path{doi:http://dx.doi.org/10.1016/S0168-583X(01)00762-5}}.
+
+\bibitem{kerma}
+R.~S. Caswell, J.~J. Coyne, M.~L. Randolph, Kerma factors for neutron energies
+  below 30 mev, Radiation Research 83~(2) (1980) pp. 217--254.
+
+\bibitem{castor}
+P.~Göttlicher, Design and test beam studies for the \{CASTOR\} calorimeter of
+  the \{CMS\} experiment, Nuclear Instruments and Methods in Physics Research
+  Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+  623~(1) (2010) 225 -- 227, 1st International Conference on Technology and
+  Instrumentation in Particle Physics.
+\newblock \href
+  {http://dx.doi.org/http://dx.doi.org/10.1016/j.nima.2010.02.203}
+  {\path{doi:http://dx.doi.org/10.1016/j.nima.2010.02.203}}.
+
+\bibitem{CMSHB}
+S.~Abdullin~{\it et al.}, Design, performance, and calibration of cms
+  hadron-barrel calorimeter wedges, The European Physical Journal C 55~(1)
+  (2008) 159--171.
+\newblock \href {http://dx.doi.org/10.1140/epjc/s10052-008-0573-y}
+  {\path{doi:10.1140/epjc/s10052-008-0573-y}}.
+
+\bibitem{mdliquidtile}
+{Liquid scintillator tiles for high radiation environments submitted to NIM}.
+
+\bibitem{sipmmcastor}
+A.~Heering, J.~Rohlf, S.~Los, J.~Anderson, J.~Freeman, Y.~Musienko, I.~Schmidt,
+  C.~Tully, S.~Dugad, An 18 element strip of 1 mm2 g-apds for cms hcal upgrade
+  results of cern test beam 2009, in: Nuclear Science Symposium Conference
+  Record (NSS/MIC), 2009 IEEE, 2009, pp. 2190--2196.
+\newblock \href {http://dx.doi.org/10.1109/NSSMIC.2009.5402087}
+  {\path{doi:10.1109/NSSMIC.2009.5402087}}.
+
+\end{thebibliography}
